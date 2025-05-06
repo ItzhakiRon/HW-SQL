@@ -1,2 +1,2 @@
-# HW-SQL
-Repository for classwork in SQL
+# SQL-DB
+Repository for SCHEMA in SQL
